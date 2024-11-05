@@ -40,3 +40,5 @@ The proposed framework consists of several key components to provide transparent
 
 Clone the repository and ensure all dependencies are installed. The main dependencies include `torch`, `transformers`, `shap`, `dice_ml`, `haystack`, and `gradio`.
 
+## Remarks:
+This work is part of a seminar work in the context of Master Studies in Business Informatics at the Saarland University, created and submitted by Maxim Majlatow.
